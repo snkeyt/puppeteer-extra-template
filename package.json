@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-extra-template",
+  "version": "1.0.0",
+  "description": "puppeteer extra template",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.9.0",
+    "puppeteer-extra": "^3.3.6"
+  }
+}
